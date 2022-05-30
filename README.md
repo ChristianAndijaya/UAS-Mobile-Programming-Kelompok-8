@@ -1,4 +1,4 @@
-# uts_project
+# uas_project
 
 A new Flutter project.
 
